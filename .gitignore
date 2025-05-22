@@ -1,5 +1,6 @@
 node_modules/
 audioChunks/
 chunkedText/
+text/
 /*.mp3
 .DS_Store
