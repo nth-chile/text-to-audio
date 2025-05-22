@@ -1,0 +1,5 @@
+node_modules/
+audioChunks/
+chunkedText/
+/*.mp3
+.DS_Store

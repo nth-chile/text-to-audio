@@ -1,0 +1,12 @@
+{
+  "name": "tts-oai",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "dependencies": {
+    "@types/node": "^22.15.21",
+    "openai": "^4.100.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
